@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "코스타day10", "코스타
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "코스타day11", "코스타day11\코스타day11.vcxproj", "{B37B62BC-0819-4262-88B4-0EFA4396C6C1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "코스타day12", "코스타day12\코스타day12.vcxproj", "{F086F447-140C-48A0-8705-85C98B042FCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{B37B62BC-0819-4262-88B4-0EFA4396C6C1}.Release|x64.Build.0 = Release|x64
 		{B37B62BC-0819-4262-88B4-0EFA4396C6C1}.Release|x86.ActiveCfg = Release|Win32
 		{B37B62BC-0819-4262-88B4-0EFA4396C6C1}.Release|x86.Build.0 = Release|Win32
+		{F086F447-140C-48A0-8705-85C98B042FCA}.Debug|x64.ActiveCfg = Debug|x64
+		{F086F447-140C-48A0-8705-85C98B042FCA}.Debug|x64.Build.0 = Debug|x64
+		{F086F447-140C-48A0-8705-85C98B042FCA}.Debug|x86.ActiveCfg = Debug|Win32
+		{F086F447-140C-48A0-8705-85C98B042FCA}.Debug|x86.Build.0 = Debug|Win32
+		{F086F447-140C-48A0-8705-85C98B042FCA}.Release|x64.ActiveCfg = Release|x64
+		{F086F447-140C-48A0-8705-85C98B042FCA}.Release|x64.Build.0 = Release|x64
+		{F086F447-140C-48A0-8705-85C98B042FCA}.Release|x86.ActiveCfg = Release|Win32
+		{F086F447-140C-48A0-8705-85C98B042FCA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
